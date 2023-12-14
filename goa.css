@@ -1,0 +1,46 @@
+.bg-card{
+    background-size:150vh;
+    background-size: cover;
+}
+.main_heading{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: #323f4b;
+    padding: 8px;
+    margin: 8px;
+
+}
+.paragraph{
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #9aa5b1;
+    padding: 8px;
+    margin: 8px;
+
+}
+.image_card{
+    border-radius: 8px;
+    width:90px;
+    height: 90px;
+    margin: 8px;
+    
+}
+.image{
+    margin: 5px;
+}
+.video_card{
+    border-radius: 10px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width:140px;
+    height: 140px;
+    margin: 8px;
+}
+.embed-responsive-item{
+    border-radius: 15px;
+}
+
+
+
+
